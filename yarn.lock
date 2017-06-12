@@ -608,6 +608,12 @@ hapi-devine-api-config@^2.0.1:
     joi "^10.4.1"
     joi-objectid "^2.0.0"
 
+hapi-devine-parse-query@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/hapi-devine-parse-query/-/hapi-devine-parse-query-1.0.6.tgz#58f68951d2d6893cb1e368289c9b74f6e70934cb"
+  dependencies:
+    lodash "^4.17.4"
+
 has-ansi@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/has-ansi/-/has-ansi-2.0.0.tgz#34f5049ce1ecdf2b0649af3ef24e45ed35416d91"
