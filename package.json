@@ -1,6 +1,6 @@
 {
   "name": "hapi-devine-api",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "🔧 This Hapi plugin generates API routes based on Mongoose schemas",
   "main": "index.js",
   "repository": "devinehowest/hapi-devine-api",

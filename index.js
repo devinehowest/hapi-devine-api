@@ -31,9 +31,9 @@ module.exports.register = (server, options, next) => {
     })
   );
 
-  if (log) console.log(``);
-
   if (log) {
+
+    if (r.length > 0) console.log(``);
 
     r.forEach(r => {
 
